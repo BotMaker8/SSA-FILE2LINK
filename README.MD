@@ -1,7 +1,7 @@
 **<h1 align="center"><b>⍣ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ</b></h1>**
 <p align="center">
   <a href="https://youtu.be/W4wSOZw8GXk">
-    <img src="https://telegra.ph/file/a2303826e0c6d18bf9cab.jpg">
+    <img src="https://graph.org/file/92002e32beda4eca56f0f.jpg">
   </a>
   <p align="center">
     𝙸 𝙲𝙰𝙽 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴 𝙳𝙸𝚁𝙴𝙲𝚃 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙻𝙸𝙽𝙺 𝙵𝙾𝚁 𝙰𝙽𝚈 𝚅𝙸𝙳𝙴𝙾/𝙵𝙸𝙻𝙴𝚂 𝙵𝙾𝚁 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙾𝙽𝙻𝙸𝙽𝙴 & 𝙵𝙾𝚁 𝚂𝚃𝚁𝙴𝙰𝙼𝙸𝙽𝙶...
@@ -50,8 +50,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 Press the below button to Fast deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aadhi000/File-To-Link)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BotMaker8/SSA-FILE2LINK)
 
 🚀Features<p>
 💥Superfast⚡️ download and stream links.<br>
